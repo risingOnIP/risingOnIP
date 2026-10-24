@@ -19,14 +19,14 @@ Karthik Kaligotla is the named inventor on two granted U.S. patents: one for det
 
 | Project | What It Does | Patent | Stack |
 |---|---|---|---|
-| [Phishing Prevention](https://github.com/risingOnIP/phishing-prevention) | Flags look-alike phishing pages by recognizing the imitated brand and verifying hosting IPs | [US 12,445,488 B2](https://patents.google.com/patent/US12445488B2/) | JavaScript, Python, TensorFlow |
-| [Trusted Repeater](https://github.com/risingOnIP/trusted-repeater) | Destroys covert exfiltration channels by regenerating outbound packets with known-safe payloads | [US 12,598,158 B2](https://patents.google.com/patent/US12598158B2/) | Python, Scapy, Cisco IOS |
+| [Phishing Prevention](https://github.com/risingOnIP/phishing-prevention) | Detects look-alike phishing pages by recognizing the brand they imitate and verifying where they are hosted. | [US 12,445,488 B2](https://patents.google.com/patent/US12445488B2/) | JavaScript, Python, TensorFlow |
+| [Trusted Repeater](https://github.com/risingOnIP/trusted-repeater) | Stops covert data exfiltration by regenerating outbound packets with known-safe payloads instead of inspecting them. | [US 12,598,158 B2](https://patents.google.com/patent/US12598158B2/) | Python, Scapy, Cisco IOS |
 
 ## Research
 
 | Project | What It Does | Stack |
 |---|---|---|
-| [LSA Optimization](https://github.com/risingOnIP/lsa-optimization) | Measures how weighting, rank, and noise affect Latent Semantic Analysis on 20 Newsgroups | Python, scikit-learn, UMAP |
+| [LSA Optimization](https://github.com/risingOnIP/lsa-optimization) | A reproducible study of term weighting, rank selection, and noise robustness in Latent Semantic Analysis. | Python, scikit-learn, UMAP |
 
 ## Full-Stack Foundations
 
