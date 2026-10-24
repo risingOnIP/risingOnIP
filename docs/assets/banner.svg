@@ -1,81 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Karthik Kaligotla">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-label="Hi, I'm Karthik Kaligotla">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#111827"/>
-      <stop offset="1" stop-color="#1F2937"/>
+      <stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#1F2937"/>
     </linearGradient>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
       <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
     </pattern>
-    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0.55" stop-color="#111827" stop-opacity="1"/>
-      <stop offset="0.75" stop-color="#111827" stop-opacity="0"/>
-    </linearGradient>
   </defs>
-  <rect width="1280" height="320" rx="18" fill="url(#bg)"/>
-  <rect width="1280" height="320" rx="18" fill="url(#grid)"/>
-  <g>
-    <line x1="1006" y1="83" x2="1036" y2="117" stroke="#2563EB" stroke-opacity="0.45" stroke-width="1.5"/>
-    <line x1="1006" y1="83" x2="1062" y2="65" stroke="#2563EB" stroke-opacity="0.45" stroke-width="1.5"/>
-    <line x1="1200" y1="206" x2="1201" y2="222" stroke="#2563EB" stroke-opacity="0.45" stroke-width="1.5"/>
-    <line x1="1200" y1="206" x2="1223" y2="213" stroke="#2563EB" stroke-opacity="0.45" stroke-width="1.5"/>
-    <line x1="1033" y1="280" x2="988" y2="260" stroke="#2563EB" stroke-opacity="0.45" stroke-width="1.5"/>
-    <line x1="1033" y1="280" x2="1015" y2="171" stroke="#2563EB" stroke-opacity="0.45" stroke-width="1.5"/>
-    <line x1="1108" y1="52" x2="1067" y2="62" stroke="#2563EB" stroke-opacity="0.45" stroke-width="1.5"/>
-    <line x1="1108" y1="52" x2="1093" y2="94" stroke="#2563EB" stroke-opacity="0.45" stroke-width="1.5"/>
-    <line x1="1234" y1="226" x2="1223" y2="213" stroke="#2563EB" stroke-opacity="0.45" stroke-width="1.5"/>
-    <line x1="1234" y1="226" x2="1201" y2="222" stroke="#2563EB" stroke-opacity="0.45" stroke-width="1.5"/>
-    <line x1="1062" y1="65" x2="1067" y2="62" stroke="#2563EB" stroke-opacity="0.45" stroke-width="1.5"/>
-    <line x1="1062" y1="65" x2="1093" y2="94" stroke="#2563EB" stroke-opacity="0.45" stroke-width="1.5"/>
-    <line x1="988" y1="260" x2="1015" y2="171" stroke="#2563EB" stroke-opacity="0.45" stroke-width="1.5"/>
-    <line x1="1015" y1="171" x2="1036" y2="117" stroke="#2563EB" stroke-opacity="0.45" stroke-width="1.5"/>
-    <line x1="1093" y1="94" x2="1067" y2="62" stroke="#2563EB" stroke-opacity="0.45" stroke-width="1.5"/>
-    <line x1="1146" y1="192" x2="1201" y2="222" stroke="#2563EB" stroke-opacity="0.45" stroke-width="1.5"/>
-    <line x1="1223" y1="213" x2="1201" y2="222" stroke="#2563EB" stroke-opacity="0.45" stroke-width="1.5"/>
-    <circle cx="1006" cy="83" r="13" fill="#B45309" fill-opacity="0.12"/>
-    <circle cx="1006" cy="83" r="7" fill="#B45309"/>
-    <circle cx="1200" cy="206" r="9" fill="#2563EB" fill-opacity="0.12"/>
-    <circle cx="1200" cy="206" r="3" fill="#2563EB"/>
-    <circle cx="1033" cy="280" r="11" fill="#2563EB" fill-opacity="0.12"/>
-    <circle cx="1033" cy="280" r="5" fill="#2563EB"/>
-    <circle cx="1108" cy="52" r="11" fill="#2563EB" fill-opacity="0.12"/>
-    <circle cx="1108" cy="52" r="5" fill="#2563EB"/>
-    <circle cx="1234" cy="226" r="10" fill="#2563EB" fill-opacity="0.12"/>
-    <circle cx="1234" cy="226" r="4" fill="#2563EB"/>
-    <circle cx="1062" cy="65" r="11" fill="#2563EB" fill-opacity="0.12"/>
-    <circle cx="1062" cy="65" r="5" fill="#2563EB"/>
-    <circle cx="988" cy="260" r="10" fill="#2563EB" fill-opacity="0.12"/>
-    <circle cx="988" cy="260" r="4" fill="#2563EB"/>
-    <circle cx="1015" cy="171" r="11" fill="#2563EB" fill-opacity="0.12"/>
-    <circle cx="1015" cy="171" r="5" fill="#2563EB"/>
-    <circle cx="1093" cy="94" r="11" fill="#2563EB" fill-opacity="0.12"/>
-    <circle cx="1093" cy="94" r="5" fill="#2563EB"/>
-    <circle cx="1146" cy="192" r="9" fill="#2563EB" fill-opacity="0.12"/>
-    <circle cx="1146" cy="192" r="3" fill="#2563EB"/>
-    <circle cx="1067" cy="62" r="9" fill="#2563EB" fill-opacity="0.12"/>
-    <circle cx="1067" cy="62" r="3" fill="#2563EB"/>
-    <circle cx="1036" cy="117" r="9" fill="#2563EB" fill-opacity="0.12"/>
-    <circle cx="1036" cy="117" r="3" fill="#2563EB"/>
-    <circle cx="1210" cy="73" r="9" fill="#2563EB" fill-opacity="0.12"/>
-    <circle cx="1210" cy="73" r="3" fill="#2563EB"/>
-    <circle cx="1223" cy="213" r="11" fill="#2563EB" fill-opacity="0.12"/>
-    <circle cx="1223" cy="213" r="5" fill="#2563EB"/>
-    <circle cx="1201" cy="222" r="10" fill="#2563EB" fill-opacity="0.12"/>
-    <circle cx="1201" cy="222" r="4" fill="#2563EB"/>
-    <circle cx="919" cy="134" r="9" fill="#2563EB" fill-opacity="0.12"/>
-    <circle cx="919" cy="134" r="3" fill="#2563EB"/>
-  </g>
-  <rect width="1280" height="320" rx="18" fill="url(#fade)" fill-opacity="0.85"/>
-  <rect x="0" y="56" width="8" height="208" fill="#B45309"/>
-  <text x="72" y="128" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#F9FAFB">Karthik Kaligotla</text>
-  <text x="72" y="176" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" fill="#CBD5E1">Inventor and security engineer working across networking,</text>
-  <text x="72" y="208" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" fill="#CBD5E1">machine learning, and full-stack web development.</text>
-  <rect x="72" y="248" width="165" height="32" rx="16" fill="#B45309" fill-opacity="0.18" stroke="#B45309" stroke-width="1.5"/>
-  <text x="154.5" y="269" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#F9FAFB">2 U.S. PATENTS</text>
-  <rect x="249" y="248" width="184" height="32" rx="16" fill="#2563EB" fill-opacity="0.18" stroke="#2563EB" stroke-width="1.5"/>
-  <text x="341.0" y="269" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#F9FAFB">NETWORK SECURITY</text>
-  <rect x="445" y="248" width="184" height="32" rx="16" fill="#2563EB" fill-opacity="0.18" stroke="#2563EB" stroke-width="1.5"/>
-  <text x="537.0" y="269" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#F9FAFB">MACHINE LEARNING</text>
-  <rect x="641" y="248" width="128" height="32" rx="16" fill="#2563EB" fill-opacity="0.18" stroke="#2563EB" stroke-width="1.5"/>
-  <text x="705.0" y="269" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#F9FAFB">FULL STACK</text>
+  <rect width="1280" height="380" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="380" rx="18" fill="url(#grid)"/>
+  <g><line x1="859" y1="229" x2="962" y2="257" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="859" y1="229" x2="912" y2="155" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="859" y1="229" x2="877" y2="272" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="859" y1="229" x2="927" y2="161" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="891" y1="87" x2="912" y2="155" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="891" y1="87" x2="927" y2="161" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="891" y1="87" x2="884" y2="53" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="891" y1="87" x2="986" y2="77" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="1134" y1="141" x2="1144" y2="329" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="1134" y1="141" x2="1127" y2="102" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="1134" y1="141" x2="1111" y2="103" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="1134" y1="141" x2="1223" y2="168" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="1134" y1="141" x2="1098" y2="120" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="1134" y1="141" x2="1211" y2="263" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="962" y1="257" x2="877" y2="272" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="962" y1="257" x2="927" y2="161" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="1056" y1="59" x2="1111" y2="103" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="1056" y1="59" x2="986" y2="77" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="1056" y1="59" x2="1098" y2="120" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="912" y1="155" x2="927" y2="161" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="912" y1="155" x2="884" y2="53" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="1144" y1="329" x2="1223" y2="168" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="1144" y1="329" x2="1211" y2="263" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="1127" y1="102" x2="1111" y2="103" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="1127" y1="102" x2="1154" y2="55" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="1127" y1="102" x2="1144" y2="57" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="1127" y1="102" x2="1223" y2="168" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="1127" y1="102" x2="1098" y2="120" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="1111" y1="103" x2="1154" y2="55" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="1111" y1="103" x2="1144" y2="57" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="1111" y1="103" x2="1098" y2="120" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="877" y1="272" x2="927" y2="161" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="1154" y1="55" x2="1144" y2="57" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="927" y1="161" x2="986" y2="77" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="884" y1="53" x2="986" y2="77" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><line x1="1223" y1="168" x2="1211" y2="263" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1.5"/><circle r="3.5" fill="#F59E0B"><animateMotion dur="2.4s" repeatCount="indefinite" path="M859 229 L962 257"/></circle><circle r="3.5" fill="#60A5FA"><animateMotion dur="3.0999999999999996s" repeatCount="indefinite" path="M859 229 L927 161"/></circle><circle r="3.5" fill="#60A5FA"><animateMotion dur="3.8s" repeatCount="indefinite" path="M891 87 L884 53"/></circle><circle r="3.5" fill="#F59E0B"><animateMotion dur="4.5s" repeatCount="indefinite" path="M1134 141 L1127 102"/></circle><circle r="3.5" fill="#60A5FA"><animateMotion dur="2.4s" repeatCount="indefinite" path="M1134 141 L1098 120"/></circle><circle r="3.5" fill="#60A5FA"><animateMotion dur="3.0999999999999996s" repeatCount="indefinite" path="M962 257 L927 161"/></circle><circle r="3.5" fill="#F59E0B"><animateMotion dur="3.8s" repeatCount="indefinite" path="M1056 59 L1098 120"/></circle><circle cx="859" cy="229" r="13" fill="#B45309" fill-opacity="0.12"><animate attributeName="r" values="11;18;11" dur="3.2s" begin="2.96s" repeatCount="indefinite"/></circle><circle cx="859" cy="229" r="7" fill="#B45309"/><circle cx="891" cy="87" r="9" fill="#2563EB" fill-opacity="0.12"><animate attributeName="r" values="7;14;7" dur="3.2s" begin="0.72s" repeatCount="indefinite"/></circle><circle cx="891" cy="87" r="3" fill="#2563EB"/><circle cx="1134" cy="141" r="9" fill="#2563EB" fill-opacity="0.12"><animate attributeName="r" values="7;14;7" dur="3.2s" begin="1.93s" repeatCount="indefinite"/></circle><circle cx="1134" cy="141" r="3" fill="#2563EB"/><circle cx="962" cy="257" r="10" fill="#2563EB" fill-opacity="0.12"><animate attributeName="r" values="8;15;8" dur="3.2s" begin="2.42s" repeatCount="indefinite"/></circle><circle cx="962" cy="257" r="4" fill="#2563EB"/><circle cx="1056" cy="59" r="11" fill="#2563EB" fill-opacity="0.12"><animate attributeName="r" values="9;16;9" dur="3.2s" begin="1.65s" repeatCount="indefinite"/></circle><circle cx="1056" cy="59" r="5" fill="#2563EB"/><circle cx="912" cy="155" r="11" fill="#2563EB" fill-opacity="0.12"><animate attributeName="r" values="9;16;9" dur="3.2s" begin="2.65s" repeatCount="indefinite"/></circle><circle cx="912" cy="155" r="5" fill="#2563EB"/><circle cx="1144" cy="329" r="10" fill="#2563EB" fill-opacity="0.12"><animate attributeName="r" values="8;15;8" dur="3.2s" begin="2.45s" repeatCount="indefinite"/></circle><circle cx="1144" cy="329" r="4" fill="#2563EB"/><circle cx="1127" cy="102" r="13" fill="#B45309" fill-opacity="0.12"><animate attributeName="r" values="11;18;11" dur="3.2s" begin="1.95s" repeatCount="indefinite"/></circle><circle cx="1127" cy="102" r="7" fill="#B45309"/><circle cx="1111" cy="103" r="10" fill="#2563EB" fill-opacity="0.12"><animate attributeName="r" values="8;15;8" dur="3.2s" begin="1.49s" repeatCount="indefinite"/></circle><circle cx="1111" cy="103" r="4" fill="#2563EB"/><circle cx="877" cy="272" r="11" fill="#2563EB" fill-opacity="0.12"><animate attributeName="r" values="9;16;9" dur="3.2s" begin="1.31s" repeatCount="indefinite"/></circle><circle cx="877" cy="272" r="5" fill="#2563EB"/><circle cx="1154" cy="55" r="9" fill="#2563EB" fill-opacity="0.12"><animate attributeName="r" values="7;14;7" dur="3.2s" begin="2.81s" repeatCount="indefinite"/></circle><circle cx="1154" cy="55" r="3" fill="#2563EB"/><circle cx="927" cy="161" r="9" fill="#2563EB" fill-opacity="0.12"><animate attributeName="r" values="7;14;7" dur="3.2s" begin="0.62s" repeatCount="indefinite"/></circle><circle cx="927" cy="161" r="3" fill="#2563EB"/><circle cx="1144" cy="57" r="9" fill="#2563EB" fill-opacity="0.12"><animate attributeName="r" values="7;14;7" dur="3.2s" begin="1.44s" repeatCount="indefinite"/></circle><circle cx="1144" cy="57" r="3" fill="#2563EB"/><circle cx="884" cy="53" r="9" fill="#2563EB" fill-opacity="0.12"><animate attributeName="r" values="7;14;7" dur="3.2s" begin="0.84s" repeatCount="indefinite"/></circle><circle cx="884" cy="53" r="3" fill="#2563EB"/><circle cx="986" cy="77" r="11" fill="#2563EB" fill-opacity="0.12"><animate attributeName="r" values="9;16;9" dur="3.2s" begin="0.45s" repeatCount="indefinite"/></circle><circle cx="986" cy="77" r="5" fill="#2563EB"/><circle cx="1223" cy="168" r="9" fill="#2563EB" fill-opacity="0.12"><animate attributeName="r" values="7;14;7" dur="3.2s" begin="0.98s" repeatCount="indefinite"/></circle><circle cx="1223" cy="168" r="3" fill="#2563EB"/><circle cx="1098" cy="120" r="11" fill="#2563EB" fill-opacity="0.12"><animate attributeName="r" values="9;16;9" dur="3.2s" begin="0.25s" repeatCount="indefinite"/></circle><circle cx="1098" cy="120" r="5" fill="#2563EB"/><circle cx="1211" cy="263" r="9" fill="#2563EB" fill-opacity="0.12"><animate attributeName="r" values="7;14;7" dur="3.2s" begin="0.5s" repeatCount="indefinite"/></circle><circle cx="1211" cy="263" r="3" fill="#2563EB"/></g>
+  <rect width="1280" height="380" rx="18" fill="url(#fade)" fill-opacity="0"/>
+  <rect x="0" y="64" width="8" height="252" fill="#B45309"/>
+  <text x="72" y="114" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="4" fill="#F59E0B">HI, I'M</text>
+  <text x="70" y="182" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="#F9FAFB">Karthik Kaligotla</text>
+  <text x="72" y="230" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" fill="#CBD5E1">I build systems that keep networks, and the people on them, safe.</text>
+  <rect x="72" y="262" width="165" height="32" rx="16.0" fill="#B45309" fill-opacity="0.18" stroke="#B45309" stroke-width="1.5"/><text x="154.5" y="283" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#F9FAFB">2 U.S. PATENTS</text><rect x="249" y="262" width="183" height="32" rx="16.0" fill="#2563EB" fill-opacity="0.18" stroke="#2563EB" stroke-width="1.5"/><text x="340.5" y="283" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#F9FAFB">NETWORK SECURITY</text><rect x="444" y="262" width="183" height="32" rx="16.0" fill="#2563EB" fill-opacity="0.18" stroke="#2563EB" stroke-width="1.5"/><text x="535.5" y="283" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#F9FAFB">MACHINE LEARNING</text><rect x="639" y="262" width="127" height="32" rx="16.0" fill="#2563EB" fill-opacity="0.18" stroke="#2563EB" stroke-width="1.5"/><text x="702.5" y="283" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#F9FAFB">FULL STACK</text>
 </svg>
