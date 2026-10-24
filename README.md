@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/assets/banner.svg" alt="Karthik Kaligotla" width="100%"></p>
+
 # Karthik Kaligotla
 
 **Inventor and security engineer working across networking, machine learning, and full-stack web development.**
@@ -11,7 +13,7 @@ Karthik Kaligotla is the named inventor on two granted U.S. patents: one for det
 - **Security invention:** phishing detection and exfiltration prevention, both patented.
 - **Network engineering:** policy-based routing, packet capture, and packet regeneration.
 - **Machine learning:** CNN brand classification and LSA text representations.
-- **Full-stack web:** Next.js App Router, Server Actions, Prisma, and Postgres.
+- **Full-stack web:** Next.js App Router, Server Actions, Prisma, and PostgreSQL.
 
 ## Patented Work
 
@@ -30,9 +32,8 @@ Karthik Kaligotla is the named inventor on two granted U.S. patents: one for det
 
 | Project | What It Does | Stack |
 |---|---|---|
-| [To-Do Web App](https://github.com/risingOnIP/to-do-web-app) | Minimal full-stack task list using Server Components, Server Actions, and Prisma | Next.js, Prisma, SQLite |
-| [Next.js Dashboard](https://github.com/risingOnIP/next_starter) | Learning project following the official Next.js App Router course | Next.js, TypeScript, Postgres |
-| [stream-shadcn](https://github.com/risingOnIP/stream-shadcn) | Next.js and shadcn/ui foundation with a complete light and dark design token set | Next.js, Tailwind CSS, shadcn/ui |
+| [To-Do Web App](https://github.com/risingOnIP/to-do-web-app) | A minimal full-stack task list built with Next.js Server Components, Server Actions, and Prisma. | Next.js, Prisma, SQLite |
+| [Next.js Dashboard (Learning Project)](https://github.com/risingOnIP/next_starter) | Working through the official Next.js App Router course: fonts, images, layouts, and a Postgres-backed dashboard. | Next.js, TypeScript, PostgreSQL |
 
 ## Contact
 
