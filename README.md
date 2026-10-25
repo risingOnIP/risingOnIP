@@ -14,16 +14,6 @@ I've built a startup, shipped LLM agents into production, built multi-agent syst
 
 <p align="center"><img src="docs/assets/stats.svg" alt="Impact highlights" width="100%"></p>
 
-## Patent Citations
-
-**[US 12,445,488 B2](https://patents.google.com/patent/US12445488B2/) · Phishing detection** — cited by 9 filings, including:
-- **Gen Digital (Norton)**: granted patent
-- **Bank of America**: granted patent
-- **Korea Internet & Security Agency (KISA)**, South Korea's national cybersecurity agency: granted patent
-
-**[US 12,598,158 B2](https://patents.google.com/patent/US12598158B2/) · Exfiltration prevention** — cited by:
-- **Wiz**: granted patent
-- **Mellanox (NVIDIA)**: patent application
 ## What I've Built
 
 - **[OnroadAI](https://github.com/risingOnIP/onroad):** a real estate transaction execution platform that helped execute $90K worth of transactions. I architected a canonical data model that standardizes 1,000+ fields across dozens of legal forms, a JSON-defined rules layer that renders intake forms dynamically, UETA-compliant e-signature, an in-browser PDF editor, and an LLM agent with tool calling that drafts contracts from plain language. Built on Next.js ([web](https://github.com/risingOnIP/onroad)), Express ([API](https://github.com/risingOnIP/onroad-express)), and Supabase, deployed on Vercel and Railway.
@@ -41,6 +31,17 @@ I've built a startup, shipped LLM agents into production, built multi-agent syst
   <a href="https://github.com/risingOnIP/onroad"><img src="docs/assets/card-onroad.svg" alt="OnroadAI" width="49%"></a>
   <a href="https://github.com/risingOnIP/lsa-optimization"><img src="docs/assets/card-lsa-optimization.svg" alt="LSA Optimization" width="49%"></a>
 </p>
+
+## Patent Citations
+
+**[US 12,445,488 B2](https://patents.google.com/patent/US12445488B2/) · Phishing detection** — cited by 9 filings, including:
+- **Gen Digital (Norton)**: granted patent
+- **Bank of America**: granted patent
+- **Korea Internet & Security Agency (KISA)**, South Korea's national cybersecurity agency: granted patent
+
+**[US 12,598,158 B2](https://patents.google.com/patent/US12598158B2/) · Exfiltration prevention** — cited by:
+- **Wiz**: granted patent
+- **Mellanox (NVIDIA)**: patent application
 
 ## Writing and Speaking
 
