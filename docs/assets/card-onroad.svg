@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400" role="img" aria-label="OnroadAI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#1F2937"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="400" rx="18" fill="url(#bg)"/>
+  <rect width="800" height="400" rx="18" fill="url(#grid)"/>
+  <rect x="0" y="40" width="7" height="320" fill="#15803D"/>
+  <rect x="48" y="44" width="134" height="33" rx="16.5" fill="#15803D" fill-opacity="0.18" stroke="#15803D" stroke-width="1.5"/><text x="115.0" y="66" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.2" fill="#F9FAFB">PRODUCTION</text>
+  <rect x="674" y="58" width="52" height="68" rx="6" fill="#2563EB" fill-opacity="0.18" stroke="#2563EB" stroke-width="3"/><line x1="685" y1="74" x2="715" y2="74" stroke="#CBD5E1" stroke-width="3" stroke-linecap="round"/><line x1="685" y1="86" x2="715" y2="86" stroke="#CBD5E1" stroke-width="3" stroke-linecap="round"/><line x1="685" y1="98" x2="705" y2="98" stroke="#CBD5E1" stroke-width="3" stroke-linecap="round"/><path d="M686 114 q6 -10 12 0 t12 -2" fill="none" stroke="#15803D" stroke-width="3" stroke-linecap="round"/>
+  <text x="46" y="150" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#F9FAFB">OnroadAI</text>
+  <text x="48" y="196" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" fill="#CBD5E1">A real estate transaction platform with dynamic</text><text x="48" y="230" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" fill="#CBD5E1">legal forms, e-signature, and an AI agent that</text><text x="48" y="264" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" fill="#CBD5E1">drafts contracts from plain language.</text>
+  <rect x="48" y="318" width="97" height="34" rx="8" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.14"/><text x="96.5" y="340" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#CBD5E1">Next.js</text><rect x="155" y="318" width="97" height="34" rx="8" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.14"/><text x="203.5" y="340" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#CBD5E1">Express</text><rect x="262" y="318" width="106" height="34" rx="8" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.14"/><text x="315.0" y="340" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#CBD5E1">Supabase</text>
+  <text x="752" y="342" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#60A5FA">View repository &#8594;</text>
+</svg>

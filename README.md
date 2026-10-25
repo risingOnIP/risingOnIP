@@ -16,7 +16,7 @@ I've built a startup, shipped LLM agents into production, built multi-agent syst
 
 ## What I've Built
 
-- **OnroadAI:** a real estate transaction execution platform that helped execute $90K worth of transactions. I architected a canonical data model that standardizes 1,000+ fields across dozens of legal forms, a JSON-defined rules layer that renders intake forms dynamically, UETA-compliant e-signature, an in-browser PDF editor, and an LLM agent with tool calling that drafts contracts from plain language. Built on Next.js, Express, and Supabase, deployed on Vercel and Railway.
+- **[OnroadAI](https://github.com/risingOnIP/onroad):** a real estate transaction execution platform that helped execute $90K worth of transactions. I architected a canonical data model that standardizes 1,000+ fields across dozens of legal forms, a JSON-defined rules layer that renders intake forms dynamically, UETA-compliant e-signature, an in-browser PDF editor, and an LLM agent with tool calling that drafts contracts from plain language. Built on Next.js ([web](https://github.com/risingOnIP/onroad)), Express ([API](https://github.com/risingOnIP/onroad-express)), and Supabase, deployed on Vercel and Railway.
 - **Multi-agent AI systems:** agentic document-comparison workflows that track term changes across 15+ versions of 100+ page agreements, and a diligence pipeline that runs parallel subagents across two gated tiers, with synthesizer agents passing structured artifacts through analysis, fact-checking, and synthesis.
 - **Patented security systems:** phishing detection that pairs computer vision with network identity checks, and exfiltration prevention that regenerates every outbound packet with a known-safe payload. Both are featured below.
 - **Enterprise network security:** 802.1X and RADIUS authentication with EAP-TLS that assigns devices to organization-specific VLANs and enforces network security policy.
@@ -28,6 +28,7 @@ I've built a startup, shipped LLM agents into production, built multi-agent syst
   <a href="https://github.com/risingOnIP/trusted-repeater"><img src="docs/assets/card-trusted-repeater.svg" alt="Trusted Repeater" width="49%"></a>
 </p>
 <p align="center">
+  <a href="https://github.com/risingOnIP/onroad"><img src="docs/assets/card-onroad.svg" alt="OnroadAI" width="49%"></a>
   <a href="https://github.com/risingOnIP/lsa-optimization"><img src="docs/assets/card-lsa-optimization.svg" alt="LSA Optimization" width="49%"></a>
 </p>
 
