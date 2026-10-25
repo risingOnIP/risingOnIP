@@ -14,6 +14,9 @@ I've built a startup, shipped LLM agents into production, built multi-agent syst
 
 <p align="center"><img src="docs/assets/stats.svg" alt="Impact highlights" width="100%"></p>
 
+> [!IMPORTANT]
+> **Industry citations.** My phishing-detection patent ([US 12,445,488 B2](https://patents.google.com/patent/US12445488B2/)) is cited by **9 filings**, including granted patents from **Gen Digital (Norton)**, **Bank of America**, and the **Korea Internet & Security Agency (KISA)**, South Korea's national cybersecurity agency. My exfiltration-prevention patent ([US 12,598,158 B2](https://patents.google.com/patent/US12598158B2/)) is cited by a granted **Wiz** patent and a **Mellanox (NVIDIA)** application.
+
 ## What I've Built
 
 - **[OnroadAI](https://github.com/risingOnIP/onroad):** a real estate transaction execution platform that helped execute $90K worth of transactions. I architected a canonical data model that standardizes 1,000+ fields across dozens of legal forms, a JSON-defined rules layer that renders intake forms dynamically, UETA-compliant e-signature, an in-browser PDF editor, and an LLM agent with tool calling that drafts contracts from plain language. Built on Next.js ([web](https://github.com/risingOnIP/onroad)), Express ([API](https://github.com/risingOnIP/onroad-express)), and Supabase, deployed on Vercel and Railway.
