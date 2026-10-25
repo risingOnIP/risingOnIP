@@ -16,7 +16,7 @@ I've co-founded a startup, shipped LLM agents into production, built multi-agent
 
 ## What I've Built
 
-- **OnroadAI** (co-founder, software engineer): a real estate transaction execution platform. I architected a canonical data model that standardizes 1,000+ fields across dozens of legal forms, a JSON-defined rules layer that renders intake forms dynamically, UETA-compliant e-signature, an in-browser PDF editor, and an LLM agent with tool calling that drafts contracts from plain language. Built on Next.js, Express, and Supabase, deployed on Vercel and Railway.
+- **OnroadAI** (co-founder): a real estate transaction execution platform. I architected a canonical data model that standardizes 1,000+ fields across dozens of legal forms, a JSON-defined rules layer that renders intake forms dynamically, UETA-compliant e-signature, an in-browser PDF editor, and an LLM agent with tool calling that drafts contracts from plain language. Built on Next.js, Express, and Supabase, deployed on Vercel and Railway.
 - **Multi-agent AI systems:** agentic document-comparison workflows that track term changes across 15+ versions of 100+ page agreements, and a diligence pipeline that runs parallel subagents across two gated tiers, with synthesizer agents passing structured artifacts through analysis, fact-checking, and synthesis.
 - **Patented security systems:** phishing detection that pairs computer vision with network identity checks, and exfiltration prevention that regenerates every outbound packet with a known-safe payload. Both are featured below.
 - **Enterprise network security:** 802.1X and RADIUS authentication with EAP-TLS that assigns devices to organization-specific VLANs and enforces network security policy.
