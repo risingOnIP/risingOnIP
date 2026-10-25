@@ -14,8 +14,23 @@ I've built a startup, shipped LLM agents into production, built multi-agent syst
 
 <p align="center"><img src="docs/assets/stats.svg" alt="Impact highlights" width="100%"></p>
 
-> [!IMPORTANT]
-> **Industry citations.** My phishing-detection patent ([US 12,445,488 B2](https://patents.google.com/patent/US12445488B2/)) is cited by **9 filings**, including granted patents from **Gen Digital (Norton)**, **Bank of America**, and the **Korea Internet & Security Agency (KISA)**, South Korea's national cybersecurity agency. My exfiltration-prevention patent ([US 12,598,158 B2](https://patents.google.com/patent/US12598158B2/)) is cited by a granted **Wiz** patent and a **Mellanox (NVIDIA)** application.
+## Patent Citations
+
+**[US 12,445,488 B2](https://patents.google.com/patent/US12445488B2/) · Phishing detection**: cited by 9 filings, including
+
+<p>
+  <a href="https://patents.google.com/patent/US12445488B2/"><img src="https://img.shields.io/badge/Gen%20Digital%20%28Norton%29-Granted%20patent-15803D?style=flat-square&labelColor=111827" alt="Gen Digital (Norton): granted patent"></a>
+  <a href="https://patents.google.com/patent/US12445488B2/"><img src="https://img.shields.io/badge/Bank%20of%20America-Granted%20patent-15803D?style=flat-square&labelColor=111827" alt="Bank of America: granted patent"></a>
+  <a href="https://patents.google.com/patent/KR102836867B1/en"><img src="https://img.shields.io/badge/Korea%20Internet%20%26%20Security%20Agency%20%28KISA%29-Granted%20patent-15803D?style=flat-square&labelColor=111827" alt="Korea Internet & Security Agency (KISA): granted patent"></a>
+</p>
+<sub>KISA is South Korea's national cybersecurity agency.</sub>
+
+**[US 12,598,158 B2](https://patents.google.com/patent/US12598158B2/) · Exfiltration prevention**: cited by
+
+<p>
+  <a href="https://patents.google.com/patent/US12598158B2/"><img src="https://img.shields.io/badge/Wiz-Granted%20patent-15803D?style=flat-square&labelColor=111827" alt="Wiz: granted patent"></a>
+  <a href="https://patents.google.com/patent/US12598158B2/"><img src="https://img.shields.io/badge/Mellanox%20%28NVIDIA%29-Patent%20application-2563EB?style=flat-square&labelColor=111827" alt="Mellanox (NVIDIA): patent application"></a>
+</p>
 
 ## What I've Built
 
