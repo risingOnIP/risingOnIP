@@ -16,22 +16,14 @@ I've built a startup, shipped LLM agents into production, built multi-agent syst
 
 ## Patent Citations
 
-**[US 12,445,488 B2](https://patents.google.com/patent/US12445488B2/) · Phishing detection**: cited by 9 filings, including
+**[US 12,445,488 B2](https://patents.google.com/patent/US12445488B2/) · Phishing detection** — cited by 9 filings, including:
+- **Gen Digital (Norton)**: granted patent
+- **Bank of America**: granted patent
+- **Korea Internet & Security Agency (KISA)**, South Korea's national cybersecurity agency: granted patent
 
-<p>
-  <a href="https://patents.google.com/patent/US12445488B2/"><img src="https://img.shields.io/badge/Gen%20Digital%20%28Norton%29-Granted%20patent-15803D?style=flat-square&labelColor=111827" alt="Gen Digital (Norton): granted patent"></a>
-  <a href="https://patents.google.com/patent/US12445488B2/"><img src="https://img.shields.io/badge/Bank%20of%20America-Granted%20patent-15803D?style=flat-square&labelColor=111827" alt="Bank of America: granted patent"></a>
-  <a href="https://patents.google.com/patent/KR102836867B1/en"><img src="https://img.shields.io/badge/Korea%20Internet%20%26%20Security%20Agency%20%28KISA%29-Granted%20patent-15803D?style=flat-square&labelColor=111827" alt="Korea Internet & Security Agency (KISA): granted patent"></a>
-</p>
-<sub>KISA is South Korea's national cybersecurity agency.</sub>
-
-**[US 12,598,158 B2](https://patents.google.com/patent/US12598158B2/) · Exfiltration prevention**: cited by
-
-<p>
-  <a href="https://patents.google.com/patent/US12598158B2/"><img src="https://img.shields.io/badge/Wiz-Granted%20patent-15803D?style=flat-square&labelColor=111827" alt="Wiz: granted patent"></a>
-  <a href="https://patents.google.com/patent/US12598158B2/"><img src="https://img.shields.io/badge/Mellanox%20%28NVIDIA%29-Patent%20application-2563EB?style=flat-square&labelColor=111827" alt="Mellanox (NVIDIA): patent application"></a>
-</p>
-
+**[US 12,598,158 B2](https://patents.google.com/patent/US12598158B2/) · Exfiltration prevention** — cited by:
+- **Wiz**: granted patent
+- **Mellanox (NVIDIA)**: patent application
 ## What I've Built
 
 - **[OnroadAI](https://github.com/risingOnIP/onroad):** a real estate transaction execution platform that helped execute $90K worth of transactions. I architected a canonical data model that standardizes 1,000+ fields across dozens of legal forms, a JSON-defined rules layer that renders intake forms dynamically, UETA-compliant e-signature, an in-browser PDF editor, and an LLM agent with tool calling that drafts contracts from plain language. Built on Next.js ([web](https://github.com/risingOnIP/onroad)), Express ([API](https://github.com/risingOnIP/onroad-express)), and Supabase, deployed on Vercel and Railway.
